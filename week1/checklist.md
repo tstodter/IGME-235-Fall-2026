@@ -8,8 +8,6 @@
 
 - **Review the syllabus** - Available in the myCourses Content area
 
-- **Take the Syllabus Study Quiz** - In myCourses, unlimited attempts
-
 - **Obtain the textbook** or make sure you can access it in [O'Reilly Electronic Books](https://go.oreilly.com/rochester-institute-of-technology/library/view/-/9781491960196/?ar). Also check out the [companion website](https://learningwebdesign.com/).
 
 - **Create a GitHub account** - Sign up for the [Student Developer Pack](https://education.github.com/pack) if needed
@@ -34,7 +32,6 @@
 
 - **Upload a test file to banjo** - Prove your server access works; submit the URL in myCourses
 - **Start the Custom 404 homework** - Create your directory structure on banjo
-
 
 ## Before Next Week
 
